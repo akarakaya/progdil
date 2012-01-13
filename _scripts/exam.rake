@@ -30,3 +30,5 @@ sh "rm -f md_file.md"
 end
 end
 end
+
+task :default => :exam
